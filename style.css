@@ -9,6 +9,12 @@ h1 {
     font-size: 36px;
 }
 
+.main {
+    background-color: rgb(255, 211, 219);
+    color: orange;
+    text-align: center;
+}
+
 .para {
     font-size: 20px;
 }
