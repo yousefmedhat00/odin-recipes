@@ -1,11 +1,12 @@
 
-h1 {
-    font-family: Verdana, sans-serif;
-    font-size: 36px;
-}
 * {
     font-family: Verdana, sans-serif;
     text-align: left;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    font-size: 36px;
 }
 
 .para {
@@ -16,18 +17,18 @@ h2 {
     font-size: 24px;
     font-weight: 800;
 }
-.pesto.head1 {
-    background-color: rgb(92, 139, 92);
-    color: white;
-}
 
-.pesto.head2 {
-    background-color: rgb(99, 150, 99);
+.pesto {
+    background-color: rgb(57, 82, 57);
     color: white;   
 }
 
-.pestopasta {
-    height: auto;
-    width: 400px;
+.img {
+    height: 520px;
+    width: auto;
 }
 
+.buffalo {
+    background-color: rgb(253, 111, 59);
+    color: white;
+}
