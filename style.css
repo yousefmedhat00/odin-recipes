@@ -1,0 +1,33 @@
+
+h1 {
+    font-family: Verdana, sans-serif;
+    font-size: 36px;
+}
+* {
+    font-family: Verdana, sans-serif;
+    text-align: left;
+}
+
+.para {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 800;
+}
+.pesto.head1 {
+    background-color: rgb(92, 139, 92);
+    color: white;
+}
+
+.pesto.head2 {
+    background-color: rgb(99, 150, 99);
+    color: white;   
+}
+
+.pestopasta {
+    height: auto;
+    width: 400px;
+}
+
