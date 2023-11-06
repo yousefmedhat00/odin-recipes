@@ -3,42 +3,82 @@
     font-family: Verdana, sans-serif;
     text-align: left;
 }
-
+body {
+    background-color: rgb(255, 231, 231);
+}
 h1 {
     font-family: Verdana, sans-serif;
     font-size: 36px;
+    padding: 1em;
+    margin: 16px;
 }
 
 .main {
     background-color: rgb(255, 211, 219);
     color: orange;
     text-align: center;
+    border: 8px solid rgb(229, 156, 156);
 }
 
 .para {
-    font-size: 20px;
+    font-size: 18px;
 }
+.intro{
+    margin: 16px;
+}
+.home {
+    text-align: center;
 
+}
+button {
+    display: inline-block;
+    font-size: 20px;
+    margin: 20px;
+    padding: .5em;
+    border: 4px dotted rgb(229, 156, 156);
+}
+button:hover {
+    background-color: rgb(255, 211, 219);
+}
+a {
+    text-decoration: none !important;
+    color: orange;
+}
+h4 {
+    text-align: center;
+    margin: 5px;
+}
 h2 {
     font-size: 24px;
     font-weight: 800;
+    padding: 16px;
+    margin: 16px;
 }
 
 .img {
-    height: 520px;
-    width: auto;
+    height: auto;
+    width: 520px;
+    display: block;
+    margin: 0 auto;
 }
 
 .pesto {
-    background-color: rgb(57, 82, 57);
-    color: white;   
+    background-color: rgb(78, 112, 78);
+    color: white;  
+    text-align: center; 
+    border: 8px solid rgb(57, 82, 57);
 }
 
 .buffalo {
     background-color: rgb(253, 111, 59);
     color: white;
+    text-align: center;
+    border: 8px solid rgb(255, 158, 102);
 }
 .taco {
     background-color: rgb(70, 53, 32);
     color:white;
+    text-align: center;
+    border: 8px solid rgb(109, 83, 52);
+
 }
